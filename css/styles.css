@@ -1,0 +1,47 @@
+body {
+    background: #12151A;
+    color: #e2e2e2;
+    margin: 20px;
+    font-family: rubik;
+}
+  
+h1 {
+   text-align: center;
+   font-size: 54px;
+}
+
+label {
+    margin: 10px;
+}
+
+.pokemon-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pokemon-item {
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.pokemon-img {
+    width: 100px;
+    height: 100px;
+   
+}
+
+
+
+ 
+  
+  
+
+  
+    
